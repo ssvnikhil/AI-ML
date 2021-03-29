@@ -1,1 +1,1 @@
-# datasciencecoursera
+# Artificial Intelligence - Machine Learning
